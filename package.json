@@ -1,6 +1,6 @@
 {
   "name": "pptxto.txt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert your PPTX to TXT",
   "main": "lib/index.js",
   "bin": "lib/index.js",
