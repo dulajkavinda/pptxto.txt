@@ -1,6 +1,6 @@
 # 📄 pptxto.txt
 
-A text extraction node module, thtat can convert pptx and ppt file formats into pure text.
+A text extraction node module, that can convert pptx and ppt file formats into pure text.
 
 [![NPM](https://nodei.co/npm/pptxto.txt.png?compact=true)](https://nodei.co/npm/pptxto.txt/)
 
